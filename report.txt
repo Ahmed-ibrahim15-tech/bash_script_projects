@@ -1,0 +1,53 @@
+System report - Mon Nov  2 05:19:40 PM EET 2026
+== CPU ==
+CPU usage: 5%
+Load average: 0.21 0.15 0.09
+
+== Memory ==
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       2.6Gi       472Mi       111Mi       1.1Gi       1.2Gi
+Swap:          3.8Gi       944Mi       2.9Gi
+
+== Disk ==
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda3        28G  9.0G   19G  33% /
+
+== Network ==
+Internet connectivity: online
+lo               UNKNOWN        127.0.0.1/8 ::1/128 
+enp0s3           UP             192.168.2.20/24 10.0.2.15/24 fd17:625c:f037:2:c603:bd7:4a06:c495/64 fe80::ae70:8541:38e1:bc3e/64 
+
+== Top 5 processes by CPU ==
+    PID COMMAND         %CPU %MEM
+   1482 kwin_wayland     2.8  5.3
+   3645 code             0.6  4.4
+   1629 plasmashell      0.4  8.1
+   3470 code             0.3  7.4
+   2555 konsole          0.3  2.9
+
+== CPU ==
+CPU usage: 2%
+Load average: 0.17 0.15 0.09
+
+== Memory ==
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       2.6Gi       472Mi       111Mi       1.1Gi       1.2Gi
+Swap:          3.8Gi       944Mi       2.9Gi
+
+== Disk ==
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda3        28G  9.0G   19G  33% /
+
+== Network ==
+Internet connectivity: online
+lo               UNKNOWN        127.0.0.1/8 ::1/128 
+enp0s3           UP             192.168.2.20/24 10.0.2.15/24 fd17:625c:f037:2:c603:bd7:4a06:c495/64 fe80::ae70:8541:38e1:bc3e/64 
+
+== Top 5 processes by CPU ==
+    PID COMMAND         %CPU %MEM
+   5490 ps               100  0.1
+   1482 kwin_wayland     2.8  5.3
+   3645 code             0.6  4.4
+   1629 plasmashell      0.4  8.1
+   3470 code             0.3  7.4
+

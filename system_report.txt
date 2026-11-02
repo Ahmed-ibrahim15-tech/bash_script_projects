@@ -1,0 +1,27 @@
+System report - Mon Nov  2 05:47:59 PM EET 2026
+== CPU ==
+CPU usage: 6%
+Load average: 0.08 0.07 0.08
+
+== Memory ==
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       2.8Gi       440Mi       132Mi       905Mi       996Mi
+Swap:          3.8Gi       2.0Gi       1.8Gi
+
+== Disk ==
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda3        28G  9.0G   19G  33% /
+
+== Network ==
+Internet connectivity: online
+lo               UNKNOWN        127.0.0.1/8 ::1/128 
+enp0s3           UP             192.168.2.20/24 10.0.2.15/24 fd17:625c:f037:2:c603:bd7:4a06:c495/64 fe80::ae70:8541:38e1:bc3e/64 
+
+== Top 5 processes by CPU ==
+    PID COMMAND         %CPU %MEM
+   6546 ps               100  0.1
+   1482 kwin_wayland     2.9  3.8
+   5790 brave            1.4  7.1
+   5585 brave            0.8  4.3
+   3645 code             0.5  1.2
+
